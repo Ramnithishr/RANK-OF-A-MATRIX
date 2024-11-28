@@ -15,7 +15,7 @@ import numpy as np
 a=np.array( [[3,2,5],[1,1,2],[3,3,6]])
 solution=np.linalg.matrix_rank(a)
 print(solution)
-
+ 
 ```
 ## Output:
 ![Screenshot 2024-11-27 204445](https://github.com/user-attachments/assets/147a407e-c7b7-49bd-8855-166d81924492)
